@@ -1,0 +1,95 @@
+.loginmain {
+    height: 900px;
+
+
+}
+
+.navbar {
+    height: 100px;
+    width: 200px;
+}
+
+.maincontainer {
+    height: 700px;
+    width: 430px;
+    background-color: white;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+.inputdiv {
+    width: 420px;
+    height: 75px;
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.country {
+    width: 30%;
+    height: 50%;
+    font-size: 18px;
+    padding: 8px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.contact {
+    width: 50%;
+    height: 50%;
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.sms {
+    width: 40%;
+    height: 65%;
+    margin-right: 14px;
+    border-radius: 10px;
+    font-size: 18px;
+    border-radius: 30px;
+    padding-left: 8px;
+    line-height: 0;
+    background-color: white;
+}
+
+.whatsapp {
+    width: 45%;
+    height: 65%;
+    border-radius: 30px;
+    font-size: 18px;
+    padding-left: 6px;
+    line-height: 0;
+    color:white;
+    background-color: darkgreen;
+}
+.vector{
+    width:330px;
+    height:45px;
+    border:1px solid black;
+    justify-self: center;
+    margin:8px;
+    border-radius: 25px;
+    line-height: o;
+    align-items: center;
+    font-size: 15px;
+    justify-content: center;
+    display: flex;
+
+    
+}
+/* .picture{
+    width:10px;
+    height:70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+} */
+ .mid{
+    color:darkgreen;
+    font-weight: bold;
+ }

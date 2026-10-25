@@ -1,0 +1,578 @@
+.maindiv{
+    padding:0;
+    margin:0;
+}
+h1{
+    font-size:60px;
+}
+.icon{
+    font-size: 22px;
+    margin:0;
+    justify-self: center;
+    
+}
+.topdiv {
+    height: 70px;
+    background-color: orange;
+    margin:0;
+    padding:0;  
+}
+.iconcover{
+    height: 45px;
+    border-left: 20px;
+    width:40px;
+    justify-self: left;
+    align-content: center;
+    text-align: center;
+    margin-left: 6px;
+
+}
+.iconcover1{
+    height: 40px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width:70px;
+    justify-self: left;
+    padding-left: 5px;
+    font-size: 10.5px;
+    align-self: center;
+    
+    margin:0;
+
+}
+.topdivinner{
+    height: 70px;
+    width: 1500px;
+    justify-self:center;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+.logo1 {
+    width: 160px;
+    height:82px;
+    background-image: url(images/E8F73486-F213-4F5A-9F0A-A00A26E5B432.PNG);
+    align-self:center;
+    color:white;
+    
+    font-weight: bold;
+    font-size: 15px;
+    justify-items: center;
+    display: flex;
+    padding:0;
+    margin:0;
+    object-fit: contain;
+    background-position: center;
+    background-size: contain;
+    
+    background-repeat: no-repeat;
+}
+.logo {
+    width: 100px;
+    height:42px;
+    background-color:darkgreen;
+    align-self:center;
+    color:white;
+    border-radius:23px;
+    font-weight: bold;
+    font-size: 15px;
+    justify-items: center;
+    display: flex;
+    padding:0;
+    margin:0;
+}
+
+.downdiv{
+    height: 900px;
+    background-color: brown;
+    overflow: auto;
+    padding:0;
+    margin-top: 0;
+
+}
+
+.firstdiv {
+    height: 650px;
+    background-color: orange;
+    padding:0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.divcover{
+    width:1000px;
+    height:400px;
+
+    align-self: center;
+    display: flex;
+}
+.animation {
+    width:400px;
+    height:400px;
+    background-image:url(images/burger-full-landing.dfe87a91.png);
+    background-position: center;
+    
+}
+.login{
+    width:600px;
+    height:350px;
+    
+}
+.upperdiv{
+    width:600px;
+    height:230px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.lowerdiv{
+    width:600px;
+    height:65px;
+    display:flex;
+    
+}
+.location{
+    width: 95%;
+    height:90%;
+    background-color: white;
+    align-self: center;
+    border-radius:8px;
+    display:flex;
+    justify-content: space-between;
+    padding-left: 8px;
+    
+    
+    
+}
+.location1{
+    width:60%;
+    height:80%;
+    margin: 4px;
+    font-size: 22px;
+}
+
+
+.locationinner{
+    width:40%;
+    height:80%;
+    background-color: rgb(25, 218, 209);
+    margin: 4px;
+    margin-right: 10px;
+    justify-self: right;
+    border-radius:30px ;
+    /* border:solid #006400; */
+    color:darkgreen;
+    font-size: 12px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.seconddiv {
+    height: 1100px;
+    background-color:white;
+    
+    padding-top:20px;
+}
+.foodcontainer{
+    width:1000px;
+    height:500px;
+    justify-content: center;
+    justify-self: center;
+    
+}
+.foodcontainer2{
+    width:1100px;
+    height:500px;
+ 
+    justify-self: center;
+    margin-top:20px;
+}
+.topfood{
+    width:1000px;
+    height:70px;
+    font-size:45px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.lowerfood{
+    width:1000px;
+    height:430px;
+ 
+    /* display:flex; */
+}
+.divcover1{
+    width:100%;
+    height:50%;
+
+    display: flex;
+    justify-content: center;
+ 
+}
+.diskscover{
+    width:200px;
+    height:190px;
+
+    margin:10px;
+    
+}
+.disk{
+    width: 130px;
+    height:130px;
+    background-color: black;
+    border-top-right-radius: 90px;
+    border-top-left-radius: 100px;
+    justify-self: center;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding:0;
+    margin:0;
+    text-align:center;
+    align-items:flex-end;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.color{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 2px;
+    font-weight: 8px;
+}
+.vectoriq{
+    margin-bottom:0;
+    background-color: bisque;
+    align-self:flex-end;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+/* .disk1{
+    height: 50px;;
+    width:110px;
+    
+    justify-self: center;
+    padding:0;
+    margin:0;
+    line-height: 0;
+} */
+.topfood1{
+    width:1100px;
+    height:70px;
+    font-size: 45px;
+    text-align:center;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+.lowerfood1{
+    width:1300px;
+    height:330px;
+    /* background-color: red; */
+    display:flex;
+    justify-content: center;
+    justify-self: center;
+}
+.taskdiv{
+    height:310px;
+    width:370px;
+    /* background-color: black; */
+    margin:15px;
+    
+    justify-content: center;
+    
+}
+.task{
+    height:160px;
+    width:210px;
+    background-position: center;
+    justify-self: center;
+    object-fit:cover;
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    /* background-color: blue; */
+    display: flex;
+    
+}
+.tasknote{
+    height:130px;
+    width:370px;
+    /* background-color:rgb(19, 11, 2); */
+    justify-self: center;
+    font-size:16px;
+    text-align: center;
+    justify-content: center;
+    line-height: 19px;
+    padding:2px;
+    
+}
+.lowestfood{
+    width:280px;
+    height:55px;
+    background-color: darkgreen;
+    margin-top: 27px;
+    justify-self: center;
+    border-radius:30px;
+    text-align: center;
+    font-size: 19px;
+    padding:4px;
+    color:white;
+    font-weight: bolder;
+    font-family: sans-serif;
+    
+}
+
+.thirddiv{
+    height: 600px;
+   background-color: orange;
+    margin-top: 0;
+    padding-top:20px;
+
+}
+.toplogo{
+    width:1100px;
+    height:200px;
+    
+}
+.middletext{
+    width:700px;
+    height:70px;
+    justify-self: center;
+    text-align:center;
+    font-size:25px;
+    font-weight: bold;
+    margin-top:0;
+    line-height: 5px;
+    font-family: sans-serif;
+    
+}
+
+.countries{
+    width:1100px;
+    height:60px;
+    display:flex;
+    justify-content: center;
+    margin-bottom: 12px;
+
+}
+.lagos{
+    width:fit-content;
+    height: 35px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    margin:4px;
+    font-size: 18px;
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 0;
+    
+}
+.lagos1{
+    width:180px;
+    height: 40px;
+    background-color: brown;
+    border-radius: 25px;
+    margin:4px;
+}
+
+.toplogoinner{
+    width:240px;
+    height:200px;
+     background-image: url(images/countries.1afbc7fb\ copy.svg);
+    justify-self: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    
+    
+}
+
+.fourthdiv{
+   height:800px;
+   background-color: white; 
+   display: flex;
+   justify-content: center;
+}
+.fourthleft{
+    height:400px;
+    width:400px;
+    align-self: center;
+    
+}
+
+.fourthright{
+    height:695px;
+    width:625px;
+    background-image:url(images/image.png);
+    object-fit: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.phone{
+    height:150px;
+    width:150px;
+    background-image: url(images/download-icon.475cc763.svg);
+    justify-self: center;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.phone2{
+    height:70px;
+    width:400px;
+    justify-self: center;
+    margin:4px;
+    text-align: center;
+    font-size:25px;
+    line-height: 10px;  
+    font-family: sans-serif;
+    
+}
+.text{
+    font-size: 14px;
+}
+.phone3{
+    height:60px;
+    width:320px;
+    justify-self: center;
+    margin:12px;
+    display: flex;
+}
+.phone4{
+    height:45px;
+    width:140px;
+    
+    justify-self: center;
+    border-radius: 10px;
+    margin:4px;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.fourthdiv2{
+   height:700px;
+   background-color:#4AA9B6; 
+}
+.foodcontainer3{
+    width:1100px;
+    height:100px;
+    justify-self: center;
+}
+.foodcontainer33{
+    width:1100px;
+    height:30px;
+    justify-self: center;
+    
+}
+.toplogo2{
+    width:100px;
+    height:100px;
+    background-image: url(images/hands.1b6e6913.svg);
+    justify-self: center;
+     object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.downtext{
+    width:500px;
+    height:80px;
+    
+    justify-self: center;
+    font-size: 40px;
+    text-align: center;
+    line-height: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.foodcontainer4{
+    width:1100px;
+    height:500px;
+
+    justify-self: center;
+    display: flex;
+    justify-content:center;
+ } 
+ .boxcontainer{
+     width:360px;
+    height:490px;
+    justify-self: center;
+    margin:2px;
+    color:white;
+    font-size: 16px;
+    text-align: center;
+
+ }
+ .box{
+    width:250px;
+    height:250px;
+    margin:30px ;
+    object-fit:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+ }
+ .register{
+    width:140px;
+    height:40px;
+    background-color: #027C4B;
+    border-radius: 15px;
+    justify-self: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color:white;
+    align-content: center;
+    line-height: 0;
+    /* padding-bottom: 16px; */
+    font-family:sans-serif;
+ }
+ .register a{
+    align-self: center;
+ }
+ .fifthdiv{
+   height:800px;
+   background-color: black; 
+   display: flex;
+   
+   justify-content: center;
+
+}
+.lasttop{
+    height:50px;
+    width:100px;
+    /* background-color: green; */
+    object-fit:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.last{
+    height:700px;
+    width:300px;
+    justify-self: center ;
+    align-self: center;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family:sans-serif;
+}
+
